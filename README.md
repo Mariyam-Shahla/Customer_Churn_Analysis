@@ -47,6 +47,7 @@ The dataset contains customer information including demographics, subscription d
 - Customer_Churn_Analysis-PowerBI.pbix
 - Power_BI_Dashboard.png
 - README.md
+- Customer_Churn_Dataset.xlsx
 
 ## Future Improvements
 - Implement churn prediction using machine learning
